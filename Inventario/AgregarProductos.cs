@@ -23,6 +23,7 @@ namespace Inventario
         {
             Limpiar();
         }
+
         public void Limpiar()
         {
             TipoProductoDGV.DataSource = agregarProductos.Mostrar_TipoProductos();
