@@ -8,6 +8,7 @@ namespace Inventario.Clases
 {
     internal class Datos
     {
+        public static int IdTipoProducto { get; set; }
         public static string TipoProducto { get; set; }
         public static string Marca { get; set; }
         public static string Modelo { get; set; }
