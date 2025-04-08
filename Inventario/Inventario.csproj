@@ -108,6 +108,7 @@
     <Compile Include="AgregarProductos.Designer.cs">
       <DependentUpon>AgregarProductos.cs</DependentUpon>
     </Compile>
+    <Compile Include="Clases\Activo_SQL.cs" />
     <Compile Include="Clases\AgregarProductos_SQL.cs" />
     <Compile Include="Clases\Conexion.cs" />
     <Compile Include="Clases\Datos.cs" />

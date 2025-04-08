@@ -39,7 +39,8 @@
             this.materialLabel1.AutoSize = true;
             this.materialLabel1.Depth = 0;
             this.materialLabel1.Font = new System.Drawing.Font("Roboto", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
-            this.materialLabel1.Location = new System.Drawing.Point(351, 150);
+            this.materialLabel1.Location = new System.Drawing.Point(468, 185);
+            this.materialLabel1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.materialLabel1.MouseState = MaterialSkin.MouseState.HOVER;
             this.materialLabel1.Name = "materialLabel1";
             this.materialLabel1.Size = new System.Drawing.Size(87, 19);
@@ -53,8 +54,8 @@
             this.VerificarBtn.Depth = 0;
             this.VerificarBtn.HighEmphasis = true;
             this.VerificarBtn.Icon = null;
-            this.VerificarBtn.Location = new System.Drawing.Point(345, 232);
-            this.VerificarBtn.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
+            this.VerificarBtn.Location = new System.Drawing.Point(462, 268);
+            this.VerificarBtn.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.VerificarBtn.MouseState = MaterialSkin.MouseState.HOVER;
             this.VerificarBtn.Name = "VerificarBtn";
             this.VerificarBtn.NoAccentTextColor = System.Drawing.Color.Empty;
@@ -73,8 +74,8 @@
             this.ProductosBtn.Depth = 0;
             this.ProductosBtn.HighEmphasis = true;
             this.ProductosBtn.Icon = null;
-            this.ProductosBtn.Location = new System.Drawing.Point(342, 186);
-            this.ProductosBtn.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
+            this.ProductosBtn.Location = new System.Drawing.Point(456, 229);
+            this.ProductosBtn.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.ProductosBtn.MouseState = MaterialSkin.MouseState.HOVER;
             this.ProductosBtn.Name = "ProductosBtn";
             this.ProductosBtn.NoAccentTextColor = System.Drawing.Color.Empty;
@@ -93,8 +94,8 @@
             this.AgregarProBtn.Depth = 0;
             this.AgregarProBtn.HighEmphasis = true;
             this.AgregarProBtn.Icon = null;
-            this.AgregarProBtn.Location = new System.Drawing.Point(311, 299);
-            this.AgregarProBtn.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
+            this.AgregarProBtn.Location = new System.Drawing.Point(422, 317);
+            this.AgregarProBtn.Margin = new System.Windows.Forms.Padding(5, 7, 5, 7);
             this.AgregarProBtn.MouseState = MaterialSkin.MouseState.HOVER;
             this.AgregarProBtn.Name = "AgregarProBtn";
             this.AgregarProBtn.NoAccentTextColor = System.Drawing.Color.Empty;
@@ -108,14 +109,16 @@
             // 
             // Lobby
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1067, 554);
             this.Controls.Add(this.AgregarProBtn);
             this.Controls.Add(this.materialLabel1);
             this.Controls.Add(this.VerificarBtn);
             this.Controls.Add(this.ProductosBtn);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Lobby";
+            this.Padding = new System.Windows.Forms.Padding(4, 79, 4, 4);
             this.Text = "Lobby";
             this.ResumeLayout(false);
             this.PerformLayout();

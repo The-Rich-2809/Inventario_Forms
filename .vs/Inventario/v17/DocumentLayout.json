@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|c:\\users\\ricar\\documents\\github\\inventario_forms\\inventario\\clases\\agregarproductos_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|solutionrelative:inventario\\clases\\agregarproductos_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|c:\\users\\ricar\\documents\\github\\inventario_forms\\inventario\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|solutionrelative:inventario\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|c:\\users\\ricar\\documents\\github\\inventario_forms\\inventario\\agregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\inventario\\agregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|solutionrelative:inventario\\agregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|c:\\users\\ricar\\documents\\github\\inventario_forms\\inventario\\agregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|c:\\users\\ricar\\documents\\github\\inventario_forms\\inventario\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|solutionrelative:inventario\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\inventario\\agregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|solutionrelative:inventario\\agregarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|c:\\users\\ricar\\documents\\github\\inventario_forms\\inventario\\clases\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|c:\\users\\ricar\\documents\\github\\inventario_forms\\inventario\\clases\\activo_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|solutionrelative:inventario\\clases\\activo_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|c:\\users\\ricar\\documents\\github\\inventario_forms\\inventario\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|solutionrelative:inventario\\clases\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\inventario\\clases\\agregarproductos_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|solutionrelative:inventario\\clases\\agregarproductos_sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\inventario\\clases\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|solutionrelative:inventario\\clases\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\inventario\\lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|solutionrelative:inventario\\lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\inventario\\lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|solutionrelative:inventario\\lobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EAE3B19-AE34-4CEA-BE46-C8C760224D92}|Inventario\\Inventario.csproj|solutionrelative:inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,46 +58,77 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Datos.cs",
-              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Clases\\Datos.cs",
-              "RelativeDocumentMoniker": "Inventario\\Clases\\Datos.cs",
-              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Clases\\Datos.cs",
-              "RelativeToolTip": "Inventario\\Clases\\Datos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T04:42:24.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AgregarProductos_SQL.cs",
-              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Clases\\AgregarProductos_SQL.cs",
-              "RelativeDocumentMoniker": "Inventario\\Clases\\AgregarProductos_SQL.cs",
-              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Clases\\AgregarProductos_SQL.cs",
-              "RelativeToolTip": "Inventario\\Clases\\AgregarProductos_SQL.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAYwG4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T04:39:30.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AgregarProductos.cs",
               "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\AgregarProductos.cs",
               "RelativeDocumentMoniker": "Inventario\\AgregarProductos.cs",
               "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\AgregarProductos.cs",
               "RelativeToolTip": "Inventario\\AgregarProductos.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAjwGwAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAADwv2UAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T03:28:04.883Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Productos.cs",
+              "RelativeDocumentMoniker": "Inventario\\Productos.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Productos.cs",
+              "RelativeToolTip": "Inventario\\Productos.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAgwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:12:19.642Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Productos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Productos.cs",
+              "RelativeDocumentMoniker": "Inventario\\Productos.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Productos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inventario\\Productos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:45:36.851Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Clases\\Conexion.cs",
+              "RelativeDocumentMoniker": "Inventario\\Clases\\Conexion.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Clases\\Conexion.cs",
+              "RelativeToolTip": "Inventario\\Clases\\Conexion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:23:43.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Activo_SQL.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Clases\\Activo_SQL.cs",
+              "RelativeDocumentMoniker": "Inventario\\Clases\\Activo_SQL.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Clases\\Activo_SQL.cs",
+              "RelativeToolTip": "Inventario\\Clases\\Activo_SQL.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAD4v3EAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:11:39.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AgregarProductos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\AgregarProductos.cs",
               "RelativeDocumentMoniker": "Inventario\\AgregarProductos.cs",
@@ -78,6 +137,67 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T03:28:00.529Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Clases\\Datos.cs",
+              "RelativeDocumentMoniker": "Inventario\\Clases\\Datos.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Clases\\Datos.cs",
+              "RelativeToolTip": "Inventario\\Clases\\Datos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:42:24.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lobby.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Lobby.cs",
+              "RelativeDocumentMoniker": "Inventario\\Lobby.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Lobby.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inventario\\Lobby.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:55:08.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Program.cs",
+              "RelativeDocumentMoniker": "Inventario\\Program.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Program.cs",
+              "RelativeToolTip": "Inventario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:55:18.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AgregarProductos_SQL.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Clases\\AgregarProductos_SQL.cs",
+              "RelativeDocumentMoniker": "Inventario\\Clases\\AgregarProductos_SQL.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Clases\\AgregarProductos_SQL.cs",
+              "RelativeToolTip": "Inventario\\Clases\\AgregarProductos_SQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T04:39:30.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Lobby.cs",
+              "DocumentMoniker": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Lobby.cs",
+              "RelativeDocumentMoniker": "Inventario\\Lobby.cs",
+              "ToolTip": "C:\\Users\\ricar\\Documents\\GitHub\\Inventario_Forms\\Inventario\\Lobby.cs",
+              "RelativeToolTip": "Inventario\\Lobby.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAawCAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:55:25.785Z"
             }
           ]
         }

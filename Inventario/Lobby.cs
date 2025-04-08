@@ -19,7 +19,8 @@ namespace Inventario
 
         private void ProductosBtn_Click(object sender, EventArgs e)
         {
-
+            Productos productos = new Productos();
+            productos.Show();
         }
 
         private void VerificarBtn_Click(object sender, EventArgs e)
@@ -29,7 +30,8 @@ namespace Inventario
 
         private void AgregarProBtn_Click(object sender, EventArgs e)
         {
-
+            AgregarProductos agregarProductos = new AgregarProductos();
+            agregarProductos.Show();
         }
     }
 }
